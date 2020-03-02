@@ -1,0 +1,5 @@
+record.c:28:6:recordCheck	8	static
+record.c:53:6:operationRecord	112	static
+record.c:66:6:warnRecord	112	static
+record.c:80:6:faultRecord	112	static
+record.c:95:5:fileGetLine	32	static

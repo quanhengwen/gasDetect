@@ -1,0 +1,13 @@
+DS1302.c:10:6:DS1302_Delay	24	static
+DS1302.c:21:16:AsciiToBcd	24	static
+DS1302.c:28:16:BcdToAscii	24	static
+DS1302.c:36:6:Ds1302_Gpio_Init	32	static
+DS1302.c:47:6:Ds1302_sda_input	32	static
+DS1302.c:57:6:Ds1302_sda_output	32	static
+DS1302.c:68:6:DS1302_Init	8	static
+DS1302.c:80:6:DS1302_SetTime	16	static
+DS1302.c:96:6:DS1302_WriteByte	24	static
+DS1302.c:118:6:DS1302_Write	16	static
+DS1302.c:132:9:DS1302_ReadByte	16	static
+DS1302.c:151:9:DS1302_Read	24	static
+DS1302.c:166:6:DS1302_ReadTime	16	static

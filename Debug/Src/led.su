@@ -1,0 +1,14 @@
+led.c:11:6:ledGpioInit	40	static
+led.c:63:6:allLedOn	8	static
+led.c:71:6:buzzerOn	8	static
+led.c:78:6:buzzerOff	8	static
+led.c:82:6:allLedOff	8	static
+led.c:90:6:normal	8	static
+led.c:98:6:HALARM	8	static
+led.c:107:6:LALARM	8	static
+led.c:118:6:hardWareFault	8	static
+led.c:128:6:powerLedOn	8	static
+led.c:132:6:powerLedOff	8	static
+led.c:136:6:powerFault	8	static
+led.c:145:5:mainPowerNormal	8	static
+led.c:149:5:bakPowerNormal	8	static

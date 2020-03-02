@@ -1,0 +1,5 @@
+myButton.c:11:6:buttonInit	40	static
+myButton.c:38:6:EXTI3_IRQHandler	8	static
+myButton.c:43:6:EXTI4_IRQHandler	8	static
+myButton.c:48:6:EXTI9_5_IRQHandler	16	static
+myButton.c:54:6:HAL_GPIO_EXTI_Callback	16	static
